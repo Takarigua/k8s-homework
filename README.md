@@ -29,12 +29,24 @@
 
 ------
 
+### Ответ
+
+![Задание1](https://github.com/Takarigua/k8s-homework/blob/1d6f1b06939b4508a0e20cae4c4880ddc3e7dcd1/screen/1.png)
+
+------
+
 ### Задание 2. Создать Service и подключить его к Pod
 
 1. Создать Pod с именем netology-web.
 2. Использовать image — gcr.io/kubernetes-e2e-test-images/echoserver:2.2.
 3. Создать Service с именем netology-svc и подключить к netology-web.
 4. Подключиться локально к Service с помощью `kubectl port-forward` и вывести значение (curl или в браузере).
+
+------
+
+### Ответ
+
+![Задание2](https://github.com/Takarigua/k8s-homework/blob/1d6f1b06939b4508a0e20cae4c4880ddc3e7dcd1/screen/2.png)
 
 ------
 
